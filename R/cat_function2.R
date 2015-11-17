@@ -9,7 +9,7 @@
 
 cat_function <- function(love=TRUE){
   if(love==TRUE){
-    print("I love cats three!")
+    print("I love cats three-2!")
   }
   else {
     print("I am not a cool person.")
